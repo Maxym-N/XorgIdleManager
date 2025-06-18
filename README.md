@@ -1,4 +1,5 @@
 # XorgIdleManager
+
 XorgIdleManager: a utility designed to manage system sleep or shutdown based on inactivity in X11 environments.
 
 Version: 1.5
