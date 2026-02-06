@@ -5,7 +5,7 @@ XorgIdleManager: a utility designed to manage system sleep or shutdown based on 
 Version: 1.5
 
 Copyright (C) 2025 Maksym Nazar.
-Created with the assistance of Perplexity, ChatGPT and Claude.
+Created with the assistance of Perplexity, ChatGPT, and Claude.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
