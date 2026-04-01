@@ -1,7 +1,7 @@
 # Changelog
 
 ## v1.6 (Released: October 25, 2025)
-New Features and Improvements:
+### New Features and Improvements:
 - Increased maximum log file size to 300 KB to retain more detailed history for troubleshooting and monitoring purposes.
 
 ### Bug Fixes:
